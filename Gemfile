@@ -9,6 +9,14 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'stripe'
+gem "font-awesome-rails"
+
+
+#images for images:
+gem 'carrierwave', '~> 2.1'
+gem 'mini_magick', '~> 4.10'
+
+
 
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
