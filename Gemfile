@@ -15,7 +15,7 @@ gem "font-awesome-rails"
 #images for images:
 gem 'carrierwave', '~> 2.1'
 gem 'mini_magick', '~> 4.10'
-
+gem 'fog', '~> 1.39.0'
 
 
 # Use Puma as the app server
